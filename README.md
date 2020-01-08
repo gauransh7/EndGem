@@ -30,3 +30,5 @@ The project aims to solve all academic material problems for first year students
 * Bootstrapcdn
 ## Made By->
 Gauransh Dingwani
+
+## Note - Choose subject and branch as (chemical > computer programming > slides) for viewing the design of main content.
